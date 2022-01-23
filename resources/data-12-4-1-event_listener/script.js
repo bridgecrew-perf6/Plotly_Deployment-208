@@ -1,3 +1,4 @@
+//  create an event listen for custom function everytime there is a change
 d3.selectAll("body").on("change", updatePage);
 
 function updatePage() {

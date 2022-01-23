@@ -1,0 +1,9 @@
+body {
+    background-color: #008080 ;
+}
+
+.jumbotron {
+    background-image: url("../images/Image.jpg");
+    background-size: 30% 100%;
+    font-style: Arial  ;
+}
